@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gmail JavaMail Api</string>
+    <string name="send_email_system">SEND EMAIL SYSTEM</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+</resources>
